@@ -1,2 +1,3 @@
-# arduino
-proyectos de arduino echos en clase
+#proyecto de arduino
+##Empezando a documentar
+esta es mi primerita vez
