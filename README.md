@@ -6,4 +6,4 @@ esta es mi primerita vez
 
 
 
-[Kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
+[Theremin con kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
