@@ -12,5 +12,33 @@ esta es mi primerita vez
 [Medidor mamifero](https://github.com/Albitah24/arduino/blob/main/medidor_mamifero.ino)
 
 
+[PWM1](https://github.com/Albitah24/arduino/blob/main/PWM1.ino)
 
-[PWM1](https://github.com/Albitah24/arduino/commit/8746cf731a8ecd92622c172bb3170627124b2e67)
+
+[PWM2](https://github.com/Albitah24/arduino/blob/main/PWM2.ino)
+
+
+[PWM3](https://github.com/Albitah24/arduino/blob/main/PWM3.ino)
+
+
+[SOS_MORSE](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE.ino)
+
+
+[SOS_MORSE FUNCIONES](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE_funciones.ino)
+
+
+[SOS_MORSE3](https://github.com/Albitah24/arduino/blob/main/SOS_PARPADEO_3.ino)
+
+
+[ECHO_SERTIAL](https://github.com/Albitah24/arduino/blob/main/echo_serial_.ino)
+
+
+[INTERRUPTOR_ASESONO](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
+
+
+[SENSOR_BOTON](https://github.com/Albitah24/arduino/blob/main/sensor_botones.ino)
+
+
+[SENSOR_BOTON2](https://github.com/Albitah24/arduino/blob/main/sensor_botones2.ino)
+
+[SENSOR_BOTON3](https://github.com/Albitah24/arduino/blob/main/sensor_botones3.ino)
