@@ -9,3 +9,4 @@ esta es mi primerita vez
 [Theremin con kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
 
 
+[Medidor mamifero](https://github.com/Albitah24/arduino/blob/main/medidor_mamifero.ino)
