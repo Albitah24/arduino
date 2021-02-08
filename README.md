@@ -46,3 +46,5 @@ esta es mi primerita vez
 [xic xic(snippet)_kill_switch](https://github.com/Albitah24/arduino/blob/main/snipper_kill_switch.cpp)
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
