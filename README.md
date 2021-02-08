@@ -44,3 +44,5 @@ esta es mi primerita vez
 [SENSOR_BOTON3](https://github.com/Albitah24/arduino/blob/main/sensor_botones3.ino)
 
 [xic xic(snippet)_kill_switch](https://github.com/Albitah24/arduino/blob/main/snipper_kill_switch.cpp)
+
+[repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
