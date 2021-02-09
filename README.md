@@ -49,4 +49,4 @@ esta es mi primerita vez
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
 
-[luz modulable]
+[luz modulable](https://github.com/Albitah24/arduino/blob/main/luz_modulable.ino)
