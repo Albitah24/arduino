@@ -2,6 +2,16 @@
 ## Empezando a documentar
 esta es mi primerita vez
 
+
+texto no tiene formato.**este está en negrita**. Y, además _ este está en cursiva_.
+
+<6>UWU</6>     Negrita->Bolo
+<i>allo</i>    Cursiva->Italics
+<del>pato</del>   Delered text
+
+
+
+
 [Sitio web para saber los comandos de markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
@@ -54,4 +64,5 @@ esta es mi primerita vez
 [luz moculable multicolor](https://github.com/Albitah24/arduino/blob/main/luz_modulable_prueba_bot_n.ino)
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210209105534.jpg)
+
 
