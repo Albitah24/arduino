@@ -11,6 +11,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 * [Proyecto sensor temperatura](https://github.com/Albitah24/arduino#proyecto-sensor-temperatura)
 * [Proyectos con LED RGB](https://github.com/Albitah24/arduino#proyectos-con-led-rgb)
 * [Proyectos con piezo (altavoz)](https://github.com/Albitah24/arduino#proyectos-con-piezo-altavoz)
+* [Proyectos de servermotor y protenciómetro](https://github.com/Albitah24/arduino#proyectos-con-servomotor-y-potenci%C3%B3metro)
 * [Otros enlaces y documentación](https://github.com/Albitah24/arduino#otros-enlaces-y-documentaci%C3%B3n)
 
 ## Proyectos realizados
