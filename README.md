@@ -7,7 +7,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ## Índice de proyectos
 
-* [Proyectos con solo led y botón]
+* [Proyectos con solo led y botón](https://github.com/Albitah24/arduino#proyectos-con-solo-led-y-bot%C3%B3n)
 
 * [Otros enlaces y documentación](https://github.com/Albitah24/arduino#otros-enlaces-y-documentaci%C3%B3n)
 
@@ -52,6 +52,12 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ### Proyectos con servomotor y potenciómetro 
 
+![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
+
+
+![](https://github.com/Albitah24/arduino/blob/main/IMG20210209105534.jpg)
+
+
 ### Otros enlaces y documentación
 
 [INTERRUPTOR_ASESONO misterioso](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
@@ -64,10 +70,6 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
-
-
-![](https://github.com/Albitah24/arduino/blob/main/IMG20210209105534.jpg)
 
 
 ## Empezando a documentar
