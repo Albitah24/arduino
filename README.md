@@ -7,27 +7,46 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ## Índice de proyectos
 
+* [Proyectos con solo led y botón]
+
+* [Otros enlaces y documentación](https://github.com/Albitah24/arduino#otros-enlaces-y-documentaci%C3%B3n)
+
 ## Proyectos realizados
 
 
 ### Proyectos con solo led y botón
 
+[SOS_MORSE](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE.ino)
+
+[SOS_MORSE FUNCIONES](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE_funciones.ino)
+
+[SOS_MORSE3](https://github.com/Albitah24/arduino/blob/main/SOS_PARPADEO_3.ino)
 
 [PWM1](https://github.com/Albitah24/arduino/blob/main/PWM1.ino)
 
-
 [PWM2](https://github.com/Albitah24/arduino/blob/main/PWM2.ino)
-
 
 [PWM3](https://github.com/Albitah24/arduino/blob/main/PWM3.ino)
 
 ### Proyecto sensor temperatura
 
+[SENSOR_BOTON](https://github.com/Albitah24/arduino/blob/main/sensor_botones.ino)
+
+[SENSOR_BOTON2](https://github.com/Albitah24/arduino/blob/main/sensor_botones2.ino)
+
+[SENSOR_BOTON3](https://github.com/Albitah24/arduino/blob/main/sensor_botones3.ino)
+
 [Medidor mamifero](https://github.com/Albitah24/arduino/blob/main/medidor_mamifero.ino)
 
 ### Proyectos con LED RGB
 
+[luz modulable](https://github.com/Albitah24/arduino/blob/main/luz_modulable.ino)
+
+[luz moculable multicolor](https://github.com/Albitah24/arduino/blob/main/luz_modulable_prueba_bot_n.ino)
+
 ### Proyectos con piezo (altavoz)
+
+[ECHO_SERTIAL](https://github.com/Albitah24/arduino/blob/main/echo_serial_.ino)
 
 [Theremin con kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
 
@@ -35,6 +54,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ### Otros enlaces y documentación
 
+[INTERRUPTOR_ASESONO misterioso](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
 
 
 [Sitio web para saber los comandos de markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -42,44 +62,10 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 
 
-
-
-
-
-
-
-
-[SOS_MORSE](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE.ino)
-
-
-[SOS_MORSE FUNCIONES](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE_funciones.ino)
-
-
-[SOS_MORSE3](https://github.com/Albitah24/arduino/blob/main/SOS_PARPADEO_3.ino)
-
-
-[ECHO_SERTIAL](https://github.com/Albitah24/arduino/blob/main/echo_serial_.ino)
-
-
-[INTERRUPTOR_ASESONO](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
-
-
-[SENSOR_BOTON](https://github.com/Albitah24/arduino/blob/main/sensor_botones.ino)
-
-
-[SENSOR_BOTON2](https://github.com/Albitah24/arduino/blob/main/sensor_botones2.ino)
-
-[SENSOR_BOTON3](https://github.com/Albitah24/arduino/blob/main/sensor_botones3.ino)
-
-[xic xic(snippet)_kill_switch](https://github.com/Albitah24/arduino/blob/main/snipper_kill_switch.cpp)
-
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
 
-[luz modulable](https://github.com/Albitah24/arduino/blob/main/luz_modulable.ino)
-
-[luz moculable multicolor](https://github.com/Albitah24/arduino/blob/main/luz_modulable_prueba_bot_n.ino)
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210209105534.jpg)
 
