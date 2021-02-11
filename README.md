@@ -8,7 +8,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 ## Índice de proyectos
 
 * [Proyectos con solo led y botón](https://github.com/Albitah24/arduino#proyectos-con-solo-led-y-bot%C3%B3n)
-
+* [Proyecto sensor temperatura](https://github.com/Albitah24/arduino#proyecto-sensor-temperatura)
+* [Proyectos con LED RGB](https://github.com/Albitah24/arduino#proyectos-con-led-rgb)
+* [Proyectos con piezo (altavoz)](https://github.com/Albitah24/arduino#proyectos-con-piezo-altavoz)
 * [Otros enlaces y documentación](https://github.com/Albitah24/arduino#otros-enlaces-y-documentaci%C3%B3n)
 
 ## Proyectos realizados
