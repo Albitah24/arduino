@@ -75,3 +75,13 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ## Empezando a documentar
 esta es mi primerita vez
+
+### Proyectos con solo led y botón
+
+### Proyecto sensor temperatura
+
+### Proyectos con LED RGB
+
+### Proyectos con fieltro (altavoz)
+
+### Proyectos con servomotor y potenciómetro 
