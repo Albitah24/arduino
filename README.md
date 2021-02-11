@@ -1,21 +1,25 @@
 # proyecto de arduino
 
 
-
-texto no tiene formato.**este está en negrita**. Y, además _ este está en cursiva_.
-
-<b>UWU</b>     Negrita->Bold
-
-<i>allo</i>    Cursiva->Italics
-
-<del>pato</del>   Delered text
-
 ## Descripción del proyecto
 
-Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho porque no sirvo para nada, estas clases me ayudan a mantener mi mente ocupada mas o menos.      
+Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho porque no sirvo para nada, estas clases me ayudan a mantener mi mente ocupada mas o menos.    
+
+## Índice de proyectos
+
+## Proyectos realizados
 
 
+### Proyectos con solo led y botón
 
+
+### Proyecto sensor temperatura
+
+### Proyectos con LED RGB
+
+### Proyectos con fieltro (altavoz)
+
+### Proyectos con servomotor y potenciómetro 
 
 
 
@@ -76,13 +80,12 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 ## Empezando a documentar
 esta es mi primerita vez
 
-### Proyectos con solo led y botón
+texto no tiene formato.**este está en negrita**. Y, además _ este está en cursiva_.
+
+<b>UWU</b>     Negrita->Bold
+
+<i>allo</i>    Cursiva->Italics
+
+<del>pato</del>   Delered text
 
 
-### Proyecto sensor temperatura
-
-### Proyectos con LED RGB
-
-### Proyectos con fieltro (altavoz)
-
-### Proyectos con servomotor y potenciómetro 
