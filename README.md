@@ -5,8 +5,10 @@ esta es mi primerita vez
 
 texto no tiene formato.**este está en negrita**. Y, además _ este está en cursiva_.
 
-<6>UWU</6>     Negrita->Bolo
+<b>UWU</b>     Negrita->Bold
+
 <i>allo</i>    Cursiva->Italics
+
 <del>pato</del>   Delered text
 
 
