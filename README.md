@@ -45,7 +45,6 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [luz modulable](https://github.com/Albitah24/arduino/blob/main/luz_modulable.ino)
 
-[luz moculable multicolor](https://github.com/Albitah24/arduino/blob/main/luz_modulable_prueba_bot_n.ino)
 
 ### Proyectos con piezo (altavoz)
 
@@ -57,6 +56,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
 
+
+
+[luz moculable multicolor](https://github.com/Albitah24/arduino/blob/main/luz_modulable_prueba_bot_n.ino)
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210209105534.jpg)
 
