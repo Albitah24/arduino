@@ -3,7 +3,7 @@
 
 ## Descripción del proyecto
 
-Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho porque no sirvo para nada, estas clases me ayudan a mantener mi mente ocupada mas o menos.    
+Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho pero esta bien, estas clases me ayudan a mantener mi mente ocupada mas o menos.    
 
 ## Índice de proyectos
 
