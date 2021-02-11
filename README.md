@@ -1,6 +1,5 @@
 # proyecto de arduino
-## Empezando a documentar
-esta es mi primerita vez
+
 
 
 texto no tiene formato.**este está en negrita**. Y, además _ este está en cursiva_.
@@ -74,3 +73,5 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210209105534.jpg)
 
 
+## Empezando a documentar
+esta es mi primerita vez
