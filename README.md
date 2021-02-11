@@ -64,6 +64,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [angulos con 2 botóncitos](https://github.com/Albitah24/arduino/blob/main/dos_boton_s_aumenta_mucho_disminulle_poquito.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Escaneado_%2020210211-1349.pdf)
+
 
 ### Otros enlaces y documentación
 
