@@ -13,26 +13,6 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 ### Proyectos con solo led y botón
 
 
-### Proyecto sensor temperatura
-
-### Proyectos con LED RGB
-
-### Proyectos con fieltro (altavoz)
-
-### Proyectos con servomotor y potenciómetro 
-
-
-
-[Sitio web para saber los comandos de markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-
-
-
-[Theremin con kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
-
-
-[Medidor mamifero](https://github.com/Albitah24/arduino/blob/main/medidor_mamifero.ino)
-
-
 [PWM1](https://github.com/Albitah24/arduino/blob/main/PWM1.ino)
 
 
@@ -40,6 +20,33 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 
 [PWM3](https://github.com/Albitah24/arduino/blob/main/PWM3.ino)
+
+### Proyecto sensor temperatura
+
+[Medidor mamifero](https://github.com/Albitah24/arduino/blob/main/medidor_mamifero.ino)
+
+### Proyectos con LED RGB
+
+### Proyectos con piezo (altavoz)
+
+[Theremin con kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
+
+### Proyectos con servomotor y potenciómetro 
+
+### Otros enlaces y documentación
+
+
+
+[Sitio web para saber los comandos de markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
+
+
+
+
+
+
+
 
 
 [SOS_MORSE](https://github.com/Albitah24/arduino/blob/main/SOS_MORSE.ino)
