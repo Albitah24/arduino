@@ -52,6 +52,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Theremin con kill switch](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Escaneado_%2020210212-1028.jpg)
+
 ### Proyectos con servomotor y potenciómetro 
 
 ![](https://github.com/Albitah24/arduino/blob/main/IMG20210208121952.jpg)
