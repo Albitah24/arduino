@@ -54,6 +54,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [instrumentin botoncito- PIP PIP](https://github.com/Albitah24/arduino/blob/main/instrumento_teclado_tin_tin_tiiin.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-12%2010-45-26.png)
+
 
 
 ### Proyectos con servomotor y potenciómetro 
