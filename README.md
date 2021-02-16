@@ -64,6 +64,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
  ![](https://github.com/Albitah24/arduino/blob/main/20210212_133321.jpg)
  
  [reloj ARENA DESORDENAO](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_desordenadoUwU.ino)
+ 
+ ![]()
+ 
 
 ### Proyectos con servomotor y potenciómetro 
 
