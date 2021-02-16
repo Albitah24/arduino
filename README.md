@@ -59,6 +59,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [reloj arena con pito](https://github.com/Albitah24/arduino/commit/3a92b586d87c4642a6c1f9a6ac6fba6d3cb5d2ea)
 
+![](https://github.com/Albitah24/arduino/blob/main/Escaneado_%2020210216-1348.jpg)
 
 ### Proyectos con uso de millis () sin delay ()
  [reloj arenita](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
