@@ -31,6 +31,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [PWM3](https://github.com/Albitah24/arduino/blob/main/PWM3.ino)
 
+
 ### Proyecto sensor temperatura
 
 [SENSOR_BOTON](https://github.com/Albitah24/arduino/blob/main/sensor_botones.ino)
@@ -61,6 +62,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
  [reloj arenita](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
  
  ![](https://github.com/Albitah24/arduino/blob/main/20210212_133321.jpg)
+ 
+ [reloj ARENA DESORDENAO](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_desordenadoUwU.ino)
 
 ### Proyectos con servomotor y potenciómetro 
 
