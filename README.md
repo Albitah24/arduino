@@ -69,7 +69,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
  [reloj ARENA DESORDENAO](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_desordenadoUwU.ino)
  
  ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-16%2013-13-09.png)
- 
+
 
 ### Proyectos con servomotor y potenciómetro 
 
@@ -84,6 +84,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 [angulos con 2 botóncitos](https://github.com/Albitah24/arduino/blob/main/dos_boton_s_aumenta_mucho_disminulle_poquito.ino)
 
 [imagen en pdf](https://github.com/Albitah24/arduino/blob/main/Escaneado_%2020210211-1349.pdf)
+
+[motor wiii wiiiii (gira)](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de_feria.ino)
 
 
 ### Otros enlaces y documentación
