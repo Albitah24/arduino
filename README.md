@@ -87,6 +87,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [motor wiii wiiiii (gira)](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de_feria.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-18%2010-57-03.png)
+
 
 ### Otros enlaces y documentación
 
