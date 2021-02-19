@@ -92,6 +92,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [motor wiwiwiwiwi rueda](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de__feria_moderable_con_rueda.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2013-00-17.png)
+
 
 ### Otros enlaces y documentación
 
