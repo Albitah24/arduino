@@ -90,6 +90,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-18%2010-57-03.png)
 
 
+[motor wiwiwiwiwi rueda](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de__feria_moderable_con_rueda.ino)
+
+
 ### Otros enlaces y documentación
 
 [INTERRUPTOR_ASESONO misterioso](https://github.com/Albitah24/arduino/blob/main/interruptor_asesono.ino)
