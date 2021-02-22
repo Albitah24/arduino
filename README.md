@@ -34,6 +34,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 [Lucecita parpadeante](https://github.com/Albitah24/arduino/blob/main/lucecitas_parpadeantes.ino)
 
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-22%2013-30-18.png)
+
+
 ### Proyecto sensor temperatura
 
 [SENSOR_BOTON](https://github.com/Albitah24/arduino/blob/main/sensor_botones.ino)
