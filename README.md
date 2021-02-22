@@ -75,6 +75,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
  
  ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-16%2013-13-09.png)
 
+[Reloj de arena con botoncito](https://github.com/Albitah24/arduino/blob/main/RELOJ_DE_ARENA_CON_BOTON.ino)
 
 ### Proyectos con servomotor y potenciómetro 
 
