@@ -31,7 +31,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [PWM3](https://github.com/Albitah24/arduino/blob/main/PWM3.ino)
 
-[Lucecita parpadeante]()
+[Lucecita parpadeante](https://github.com/Albitah24/arduino/blob/main/lucecitas_parpadeantes.ino)
 
 
 ### Proyecto sensor temperatura
