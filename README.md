@@ -94,7 +94,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2013-00-17.png)
 
-![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-22%2009-15-26.png)
+![](https://github.com/Albitah24/arduino/blob/main/dibujo%20Alba%20motor.png)
 
 
 ### Otros enlaces y documentación
