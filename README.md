@@ -70,6 +70,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Reloja arena con tonito pi pi pii.](https://github.com/Albitah24/arduino/blob/main/reloj_arena_con_melodia_UwU.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-23%2012-33-41.png)
+
 ### Proyectos con uso de millis () sin delay ()
  [reloj arenita](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
  
