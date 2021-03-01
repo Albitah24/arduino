@@ -111,6 +111,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%202021-02-25%20124336.png)
 
+![](https://github.com/d-prieto/arduinoCourse/blob/main/Images/Joystick%20Alba%20con%20led.JPG?raw=true)
+
 
 ### Motores de 9V
 
