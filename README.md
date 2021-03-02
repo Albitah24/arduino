@@ -120,6 +120,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 [Joystik variación0.2](https://github.com/Albitah24/arduino/blob/main/Joystikvariacion_02.ino)
 
 
+[Joystik con altavoz y led](https://github.com/Albitah24/arduino/blob/main/Joystikvariacion_altavoz.ino)
+
+
 
 ### Motores de 9V
 
