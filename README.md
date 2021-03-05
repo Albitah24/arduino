@@ -128,6 +128,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Radar arduinino](https://github.com/Albitah24/arduino/blob/main/radar_pipiiii.ino)
 
+[Variación de radar](https://github.com/Albitah24/arduino/blob/main/radar_pipiiii__variaci_n.ino)
+
 
 
 ### Motores de 9V
