@@ -38,6 +38,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Reloj arena botoncito con coloreeee](https://github.com/Albitah24/arduino/blob/main/reloj_arena_con_boton_coloreeeee.ino)
 
+[Medidor de notes UwU](https://github.com/Albitah24/arduino/blob/main/media-notas.ino.ino)
+
 
 ### Proyecto sensor temperatura
 
