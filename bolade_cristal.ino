@@ -19,23 +19,24 @@ void loop() {
   if (switchState == LOW){
     reply = random(8);
     lcd.clear();
-    lcd.setCursor(0,0);
+    lcd.setCursor(0, 0);
     lcd.print("La bola dice:");
+    lcd.setCursor(0, 1);
     switch(reply){
       case 0:
-      lcd.print("SI");
+      lcd.print("SI!");
       break;
       case 1:
       lcd.print("Puede se");
       break;
       case 2:
-      lcd.print("Aceptamos pulpo como animal de compañia");
+      lcd.print("oky doky");
       break;
       case 3:
-      lcd.print("Tiniene buena pinta");
+      lcd.print("Tiniene pinta");
       break;
       case 4:
-      lcd.print("No puedo, tengo furbo");
+      lcd.print("No puedo més");
       break;
       case 5:
        lcd.print("Kas dixo?");
@@ -44,7 +45,7 @@ void loop() {
        lcd.print("TENGO MIEDO!");
       break;
       case 7:
-       lcd.print("NO");
+       lcd.print("NO!");
       break;
     }
   }
