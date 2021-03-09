@@ -158,6 +158,9 @@ dinujo de rueda
 ### Pantalla LCD
 [Bola de cristal digital](https://github.com/Albitah24/arduino/blob/main/bolade_cristal.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-09%2009-59-53.png)
+
+
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
