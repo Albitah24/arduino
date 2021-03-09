@@ -36,7 +36,7 @@ void loop() {
       lcd.print("Tiniene pinta");
       break;
       case 4:
-      lcd.print("No puedo més");
+      lcd.print("No puc mes");
       break;
       case 5:
        lcd.print("Kas dixo?");
