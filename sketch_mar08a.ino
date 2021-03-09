@@ -38,7 +38,7 @@ void loop() {
       lcd.print("No puedo, tengo furbo");
       break;
       case 5;
-       lcd.print("Kas dixo");
+       lcd.print("Kas dixo?");
       break;
       case 6;
        lcd.print("TENGO MIEDO!");
