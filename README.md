@@ -161,6 +161,9 @@ dinujo de rueda
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-09%2009-59-53.png)
 
 
+[emoji pantallitaaa](https://github.com/Albitah24/arduino/blob/main/emoji__a_a.ino)
+
+
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
