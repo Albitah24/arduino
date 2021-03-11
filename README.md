@@ -167,6 +167,7 @@ dinujo de rueda
 
 [contador LCD](https://github.com/Albitah24/arduino/blob/main/contador_con_pantallita.ino)
 
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-11%2013-25-23.png)
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
