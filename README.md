@@ -42,6 +42,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Medidor de notas 0.1](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_1.ino)
 
+[Medidor de notas 0.2](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_2.ino)
+
 
 ### Proyecto sensor temperatura
 
