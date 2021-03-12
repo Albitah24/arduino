@@ -40,6 +40,8 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Medidor de notes UwU](https://github.com/Albitah24/arduino/blob/main/media-notas.ino.ino)
 
+[Media notas 0.1](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_1.ino)
+
 
 ### Proyecto sensor temperatura
 
@@ -168,6 +170,12 @@ dinujo de rueda
 [contador LCD](https://github.com/Albitah24/arduino/blob/main/contador_con_pantallita.ino)
 
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-11%2013-25-23.png)
+
+
+
+
+
+
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
