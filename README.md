@@ -179,6 +179,10 @@ dinujo de rueda
 
 ### Detector capacitibo
 [lampara tactica](https://github.com/Albitah24/arduino/blob/main/lampara_tactil.ino)
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-12%2013-49-45.png)
+
+
+
 
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
