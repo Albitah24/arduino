@@ -40,7 +40,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Medidor de notes UwU](https://github.com/Albitah24/arduino/blob/main/media-notas.ino.ino)
 
-[Media notas 0.1](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_1.ino)
+[Medidor de notas 0.1](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_1.ino)
 
 
 ### Proyecto sensor temperatura
