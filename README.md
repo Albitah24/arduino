@@ -152,7 +152,9 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-19%2013-00-17.png)
 
 [Zootropo](https://github.com/Albitah24/arduino/blob/main/zootropo.ino)
+
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-15%2010-47-01.png)
+[proceso de la noria] ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-15%2010-51-58.png)
 
 dinujo de rueda
 
