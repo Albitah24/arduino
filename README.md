@@ -161,7 +161,9 @@ dinujo de rueda
 ![](https://github.com/Albitah24/arduino/blob/main/dibujo%20Alba%20motor.png)
 
 
-[molino tecladito](https://github.com/Albitah24/arduino/blob/main/molinillo_con_teclado.ino)
+molino tecladito
+
+![](https://github.com/Albitah24/arduino/blob/main/molinillo_con_teclado.ino)
 
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-02-22%2012-07-35.png)
 
