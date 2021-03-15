@@ -154,7 +154,10 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 [Zootropo](https://github.com/Albitah24/arduino/blob/main/zootropo.ino)
 
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-15%2010-47-01.png)
-[proceso de la noria] ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-15%2010-51-58.png)
+
+[proceso de la noria]
+
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-15%2010-51-58.png)
 
 dinujo de rueda
 
@@ -184,8 +187,9 @@ molino tecladito
 
 
 
-### Detector capacitibo
+### Detector capacitivo
 [lampara tactica](https://github.com/Albitah24/arduino/blob/main/lampara_tactil.ino)
+
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-12%2013-49-45.png)
 
 
