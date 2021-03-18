@@ -1,5 +1,5 @@
  /*Name: Alba Guimerans
- * Data: 16/3/2021
+ * Data: 5/febrero/2021
  * Que hace el programa?: Varia los colores y la intensidad de ellos segun gires tu el potenciometro y toques el boton. 
  * 
  * 
