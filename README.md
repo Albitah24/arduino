@@ -42,7 +42,7 @@ Soy Alba, albitah para algunos. Me gusta bastante esto aunque no me entero mucho
 
 [Medidor de notas 0.1](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_1.ino)
 
-[Medidor de notas 0.2](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_2.ino)
+[Medidor de notas 0.2](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_0_2.ino)https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-18%2013-32-36.png
 
 [Medidor de notas variación MIA](https://github.com/Albitah24/arduino/blob/main/medidor_numeral_variaci_n.ino)
 
@@ -201,7 +201,7 @@ molino tecladito
 
 [Led apaga y enciende con dos botones](https://github.com/Albitah24/arduino/blob/main/led_apaga_y_enciende_con_dos_botones__18-03-2021.ino)
 
-
+![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-18%2013-32-36.png)
 
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
