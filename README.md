@@ -199,6 +199,9 @@ molino tecladito
 
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-18%2010-50-20.png)
 
+[Led apaga y enciende con dos botones]
+
+
 
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
