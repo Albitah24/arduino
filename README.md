@@ -193,6 +193,10 @@ molino tecladito
 ![](https://github.com/Albitah24/arduino/blob/main/Captura%20de%20pantalla%20de%202021-03-12%2013-49-45.png)
 
 
+### Examen pruebas UwU
+
+[led modulable mio CHUPAPI MUÑAÑO](https://github.com/Albitah24/arduino/blob/main/Luz_modulable_led_18-3-2021.ino)
+
 
 
 
