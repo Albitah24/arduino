@@ -1,4 +1,12 @@
 
+/*Name: Alba Guimerans
+ * Data: 18/3/2021
+ * Que hace el programa?: Utilizamos un boton para encender y 
+ * el otro para apagar  el led2 
+ * 
+ */
+
+
 const int botonPin = 7;
 const int botonPin2 = 5;
 const int ledpin2 = 9;
