@@ -206,7 +206,9 @@ molino tecladito
 
 [repositorio David prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-
+### examen
+[problema1 sin acabar](https://github.com/Albitah24/arduino/blob/main/examen_ejercicio_1.ino)
+no se como hacerlo pero te subo lo poco que hice, perdón.
 
 ## Empezando a documentar
 esta es mi primerita vez
